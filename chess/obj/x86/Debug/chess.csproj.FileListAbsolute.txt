@@ -1,0 +1,36 @@
+C:\Users\Khokhar\documents\visual studio 2010\Projects\chess\chess\bin\Debug\chess.exe
+C:\Users\Khokhar\documents\visual studio 2010\Projects\chess\chess\bin\Debug\chess.pdb
+C:\Users\Khokhar\documents\visual studio 2010\Projects\chess\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\Khokhar\documents\visual studio 2010\Projects\chess\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\Khokhar\documents\visual studio 2010\Projects\chess\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\Khokhar\documents\visual studio 2010\Projects\chess\chess\obj\x86\Debug\chess.exe
+C:\Users\Khokhar\documents\visual studio 2010\Projects\chess\chess\obj\x86\Debug\chess.pdb
+C:\Users\Khokhar\documents\visual studio 2010\Projects\chess\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\Khokhar\documents\visual studio 2010\Projects\chess\chess\obj\x86\Debug\chess.About.resources
+C:\Users\Khokhar\Documents\Visual Studio 2010\Projects\chess test\chess\obj\x86\Debug\chess.exe
+C:\Users\Khokhar\Documents\Visual Studio 2010\Projects\chess test\chess\obj\x86\Debug\chess.pdb
+C:\Users\Khokhar\Documents\Visual Studio 2010\Projects\chess test\chess\bin\Debug\chess.exe
+C:\Users\Khokhar\Documents\Visual Studio 2010\Projects\chess test\chess\bin\Debug\chess.pdb
+C:\Users\Khokhar\Documents\Visual Studio 2010\Projects\chess test\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\Khokhar\Documents\Visual Studio 2010\Projects\chess test\chess\obj\x86\Debug\chess.About.resources
+C:\Users\Khokhar\Documents\Visual Studio 2010\Projects\chess test\chess\obj\x86\Debug\chess.Form1.resources
+C:\Users\Khokhar\Documents\Visual Studio 2010\Projects\chess test\chess\obj\x86\Debug\chess.Properties.Resources.resources
+C:\Users\Khokhar\Documents\Visual Studio 2010\Projects\chess test\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+D:\uni data\5th semester\vp\project\Rashid project\chess test\chess\obj\x86\Debug\chess.exe
+D:\uni data\5th semester\vp\project\Rashid project\chess test\chess\obj\x86\Debug\chess.pdb
+D:\uni data\5th semester\vp\project\Rashid project\chess test\chess\bin\Debug\chess.exe
+D:\uni data\5th semester\vp\project\Rashid project\chess test\chess\bin\Debug\chess.pdb
+D:\uni data\5th semester\vp\project\Rashid project\chess test\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+D:\uni data\5th semester\vp\project\Rashid project\chess test\chess\obj\x86\Debug\chess.About.resources
+D:\uni data\5th semester\vp\project\Rashid project\chess test\chess\obj\x86\Debug\chess.Form1.resources
+D:\uni data\5th semester\vp\project\Rashid project\chess test\chess\obj\x86\Debug\chess.Properties.Resources.resources
+D:\uni data\5th semester\vp\project\Rashid project\chess test\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
+D:\uni data\ALL semesters data\5th semester\vp\project\Rashid project\chess test\chess\obj\x86\Debug\chess.exe
+D:\uni data\ALL semesters data\5th semester\vp\project\Rashid project\chess test\chess\obj\x86\Debug\chess.pdb
+D:\uni data\ALL semesters data\5th semester\vp\project\Rashid project\chess test\chess\bin\Debug\chess.exe
+D:\uni data\ALL semesters data\5th semester\vp\project\Rashid project\chess test\chess\bin\Debug\chess.pdb
+D:\uni data\ALL semesters data\5th semester\vp\project\Rashid project\chess test\chess\obj\x86\Debug\chess.csprojResolveAssemblyReference.cache
+D:\uni data\ALL semesters data\5th semester\vp\project\Rashid project\chess test\chess\obj\x86\Debug\chess.About.resources
+D:\uni data\ALL semesters data\5th semester\vp\project\Rashid project\chess test\chess\obj\x86\Debug\chess.Form1.resources
+D:\uni data\ALL semesters data\5th semester\vp\project\Rashid project\chess test\chess\obj\x86\Debug\chess.Properties.Resources.resources
+D:\uni data\ALL semesters data\5th semester\vp\project\Rashid project\chess test\chess\obj\x86\Debug\chess.csproj.GenerateResource.Cache
